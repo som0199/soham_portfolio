@@ -18,7 +18,9 @@ const About = () => {
             <p className="home-about-body">
               Hi, my name is <span className="yellow">Soham Bijghawne </span>
               and I'm from{" "}
-              <span className="yellow"> Harda, MadhyaPradesh .</span>
+              <span className="yellow">
+                village-Kalkund, Harda, MadhyaPradesh .
+              </span>
               <br />
               <br />
               I completed my Bachelor's degree in Computer Science and
